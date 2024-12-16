@@ -4,3 +4,4 @@ PRODUCT_PACKAGES += \
 	FakeStore \
 	IchnaeaNlpBackend \
 	NominatimGeocoderBackend \
+	AuroraStore 
