@@ -14,5 +14,6 @@
 	<permission name="android.permission.MODIFY_PHONE_STATE"/>
 	<permission name="android.permission.START_ACTIVITIES_FROM_BACKGROUND"/>
 	<permission name="android.permission.LOCATION_HARDWARE"/>
+	<permission name="android.permission.RECEIVE_SMS"/>
     </privapp-permissions>
 </permissions>
